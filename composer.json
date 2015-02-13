@@ -1,0 +1,13 @@
+{
+    "name": "marolahy/odoo",
+    "description": "Odoo php connector",
+    "license": "lgpl",
+    "authors": [
+        {
+            "name": "Bezama Marolahy Randriamifidy",
+            "email": "marolahy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
